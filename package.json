@@ -4,7 +4,8 @@
   "description": "wine and cheese data trackingg",
   "main": "script.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "keywords": [
     "cheese",
@@ -12,5 +13,9 @@
     "pairing"
   ],
   "author": "georgia",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {}
 }
