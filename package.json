@@ -1,0 +1,16 @@
+{
+  "name": "a4_deco2017-main",
+  "version": "1.0.0",
+  "description": "wine and cheese data trackingg",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cheese",
+    "wine",
+    "pairing"
+  ],
+  "author": "georgia",
+  "license": "ISC"
+}
